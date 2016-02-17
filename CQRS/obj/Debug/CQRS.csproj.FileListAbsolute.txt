@@ -1,0 +1,14 @@
+D:\Working\Self Study\CQRS\CQRS\bin\Debug\CQRS.dll.config
+D:\Working\Self Study\CQRS\CQRS\bin\Debug\CQRS.dll
+D:\Working\Self Study\CQRS\CQRS\bin\Debug\CQRS.pdb
+D:\Working\Self Study\CQRS\CQRS\bin\Debug\Autofac.dll
+D:\Working\Self Study\CQRS\CQRS\bin\Debug\AutoMapper.dll
+D:\Working\Self Study\CQRS\CQRS\bin\Debug\EntityFramework.dll
+D:\Working\Self Study\CQRS\CQRS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working\Self Study\CQRS\CQRS\bin\Debug\Autofac.xml
+D:\Working\Self Study\CQRS\CQRS\bin\Debug\AutoMapper.xml
+D:\Working\Self Study\CQRS\CQRS\bin\Debug\EntityFramework.xml
+D:\Working\Self Study\CQRS\CQRS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working\Self Study\CQRS\CQRS\obj\Debug\CQRS.csprojResolveAssemblyReference.cache
+D:\Working\Self Study\CQRS\CQRS\obj\Debug\CQRS.dll
+D:\Working\Self Study\CQRS\CQRS\obj\Debug\CQRS.pdb
